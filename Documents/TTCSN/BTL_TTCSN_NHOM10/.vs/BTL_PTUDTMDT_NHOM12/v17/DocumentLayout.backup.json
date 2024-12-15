@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|c:\\users\\cuida\\documents\\phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\admin\\addproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|solutionrelative:BTL_TTCSN_NHOM10\\admin\\addproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\admin\\addproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|solutionrelative:BTL_TTCSN_NHOM10\\admin\\addproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\admin\\editcategory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|solutionrelative:BTL_TTCSN_NHOM10\\admin\\editcategory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\admin\\addcategory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|solutionrelative:BTL_TTCSN_NHOM10\\admin\\addcategory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\admin\\addcategory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|solutionrelative:BTL_TTCSN_NHOM10\\admin\\addcategory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\admin\\adminmasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|solutionrelative:BTL_TTCSN_NHOM10\\admin\\adminmasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\login_logoutpage\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|solutionrelative:BTL_TTCSN_NHOM10\\login_logoutpage\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\login_logoutpage\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|solutionrelative:BTL_TTCSN_NHOM10\\login_logoutpage\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\login_logoutpage\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|solutionrelative:BTL_TTCSN_NHOM10\\login_logoutpage\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\admin\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|solutionrelative:BTL_TTCSN_NHOM10\\admin\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\client\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|solutionrelative:BTL_TTCSN_NHOM10\\client\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\admin\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|solutionrelative:BTL_TTCSN_NHOM10\\admin\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\class\\datautilproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|solutionrelative:BTL_TTCSN_NHOM10\\class\\datautilproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\class\\datautiluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|solutionrelative:BTL_TTCSN_NHOM10\\class\\datautiluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\client\\clothing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|solutionrelative:BTL_TTCSN_NHOM10\\client\\clothing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\admin\\adminmasterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|solutionrelative:BTL_TTCSN_NHOM10\\admin\\adminmasterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\client\\clientmasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{58BB38D7-B468-4BA9-93AA-2BC3CC6E5986}|BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10.csproj|solutionrelative:BTL_TTCSN_NHOM10\\client\\clientmasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 272,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddProduct.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Admin\\AddProduct.aspx.cs",
+              "RelativeDocumentMoniker": "BTL_TTCSN_NHOM10\\Admin\\AddProduct.aspx.cs",
+              "ToolTip": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Admin\\AddProduct.aspx.cs",
+              "RelativeToolTip": "BTL_TTCSN_NHOM10\\Admin\\AddProduct.aspx.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:49:44.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditCategory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Admin\\EditCategory.aspx.cs",
+              "RelativeDocumentMoniker": "BTL_TTCSN_NHOM10\\Admin\\EditCategory.aspx.cs",
+              "ToolTip": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Admin\\EditCategory.aspx.cs",
+              "RelativeToolTip": "BTL_TTCSN_NHOM10\\Admin\\EditCategory.aspx.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:43:58.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Admin\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "BTL_TTCSN_NHOM10\\Admin\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Admin\\Default.aspx.cs",
+              "RelativeToolTip": "BTL_TTCSN_NHOM10\\Admin\\Default.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:06:01.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataUtilUser.cs",
+              "DocumentMoniker": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Class\\DataUtilUser.cs",
+              "RelativeDocumentMoniker": "BTL_TTCSN_NHOM10\\Class\\DataUtilUser.cs",
+              "ToolTip": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Class\\DataUtilUser.cs",
+              "RelativeToolTip": "BTL_TTCSN_NHOM10\\Class\\DataUtilUser.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAYwIsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:04:37.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Admin\\Default.aspx",
+              "RelativeDocumentMoniker": "BTL_TTCSN_NHOM10\\Admin\\Default.aspx",
+              "ToolTip": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Admin\\Default.aspx",
+              "RelativeToolTip": "BTL_TTCSN_NHOM10\\Admin\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-15T13:47:57.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminMasterpage.Master",
+              "DocumentMoniker": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Admin\\AdminMasterpage.Master",
+              "RelativeDocumentMoniker": "BTL_TTCSN_NHOM10\\Admin\\AdminMasterpage.Master",
+              "ToolTip": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Admin\\AdminMasterpage.Master",
+              "RelativeToolTip": "BTL_TTCSN_NHOM10\\Admin\\AdminMasterpage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-15T13:44:19.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddCategory.aspx",
+              "DocumentMoniker": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Admin\\AddCategory.aspx",
+              "RelativeDocumentMoniker": "BTL_TTCSN_NHOM10\\Admin\\AddCategory.aspx",
+              "ToolTip": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Admin\\AddCategory.aspx",
+              "RelativeToolTip": "BTL_TTCSN_NHOM10\\Admin\\AddCategory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-15T13:42:30.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Login_LogoutPage\\Register.aspx",
+              "RelativeDocumentMoniker": "BTL_TTCSN_NHOM10\\Login_LogoutPage\\Register.aspx",
+              "ToolTip": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Login_LogoutPage\\Register.aspx",
+              "RelativeToolTip": "BTL_TTCSN_NHOM10\\Login_LogoutPage\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-15T15:23:42.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Client\\Default.aspx",
+              "RelativeDocumentMoniker": "BTL_TTCSN_NHOM10\\Client\\Default.aspx",
+              "ToolTip": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Client\\Default.aspx",
+              "RelativeToolTip": "BTL_TTCSN_NHOM10\\Client\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-15T09:19:40.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddProduct.aspx",
+              "DocumentMoniker": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Admin\\AddProduct.aspx",
+              "RelativeDocumentMoniker": "BTL_TTCSN_NHOM10\\Admin\\AddProduct.aspx",
+              "ToolTip": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Admin\\AddProduct.aspx",
+              "RelativeToolTip": "BTL_TTCSN_NHOM10\\Admin\\AddProduct.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-15T14:48:48.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Login_LogoutPage\\Login.aspx",
+              "RelativeDocumentMoniker": "BTL_TTCSN_NHOM10\\Login_LogoutPage\\Login.aspx",
+              "ToolTip": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Login_LogoutPage\\Login.aspx",
+              "RelativeToolTip": "BTL_TTCSN_NHOM10\\Login_LogoutPage\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-15T15:03:47.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddCategory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Admin\\AddCategory.aspx.cs",
+              "RelativeDocumentMoniker": "BTL_TTCSN_NHOM10\\Admin\\AddCategory.aspx.cs",
+              "ToolTip": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Admin\\AddCategory.aspx.cs",
+              "RelativeToolTip": "BTL_TTCSN_NHOM10\\Admin\\AddCategory.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:06:50.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Login_LogoutPage\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "BTL_TTCSN_NHOM10\\Login_LogoutPage\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Login_LogoutPage\\Login.aspx.cs",
+              "RelativeToolTip": "BTL_TTCSN_NHOM10\\Login_LogoutPage\\Login.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:08:19.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataUtilProduct.cs",
+              "DocumentMoniker": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Class\\DataUtilProduct.cs",
+              "RelativeDocumentMoniker": "BTL_TTCSN_NHOM10\\Class\\DataUtilProduct.cs",
+              "ToolTip": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Class\\DataUtilProduct.cs",
+              "RelativeToolTip": "BTL_TTCSN_NHOM10\\Class\\DataUtilProduct.cs",
+              "ViewState": "AgIAAA4CAAAAAAAAAAArwBwCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:13:10.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminMasterpage.Master.cs",
+              "DocumentMoniker": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Admin\\AdminMasterpage.Master.cs",
+              "RelativeDocumentMoniker": "BTL_TTCSN_NHOM10\\Admin\\AdminMasterpage.Master.cs",
+              "ToolTip": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Admin\\AdminMasterpage.Master.cs",
+              "RelativeToolTip": "BTL_TTCSN_NHOM10\\Admin\\AdminMasterpage.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:29:26.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Clothing.aspx",
+              "DocumentMoniker": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Client\\Clothing.aspx",
+              "RelativeDocumentMoniker": "BTL_TTCSN_NHOM10\\Client\\Clothing.aspx",
+              "ToolTip": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Client\\Clothing.aspx",
+              "RelativeToolTip": "BTL_TTCSN_NHOM10\\Client\\Clothing.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-15T09:19:38.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClientMasterPage.Master",
+              "DocumentMoniker": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Client\\ClientMasterPage.Master",
+              "RelativeDocumentMoniker": "BTL_TTCSN_NHOM10\\Client\\ClientMasterPage.Master",
+              "ToolTip": "C:\\Users\\cuida\\Documents\\Phat trien ung dung thuong mai dien tu\\BTL_TTCSN_NHOM10\\BTL_TTCSN_NHOM10\\Client\\ClientMasterPage.Master",
+              "RelativeToolTip": "BTL_TTCSN_NHOM10\\Client\\ClientMasterPage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-15T09:19:36.754Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
