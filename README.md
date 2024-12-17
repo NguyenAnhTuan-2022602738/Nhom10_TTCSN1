@@ -1,6 +1,6 @@
 # Nhom10_TTCSN1
 Đây là link trao đổi,cập nhật các hoạt động, công việc của Nhóm 10 <br>
-Project BTL ở branch Main <br>
+Project BTL ở branch Master <br>
 **Hướng dẫn chạy** <br>
 B1: tải project về máy <br>
 B2: Mở project bằng Visual Studio <br>
